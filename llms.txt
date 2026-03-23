@@ -1,0 +1,47 @@
+# Preetham Kyanam
+
+> Software engineer based in Ashburn, Virginia. Full stack developer, AI agent builder, and open-source contributor.
+
+## About
+
+Preetham Kyanam is a software engineer with a B.S. in Computer Engineering from Virginia Tech (May 2023), concentrating in Controls, Robotics and Autonomy. He builds full stack web and mobile applications, AI agent infrastructure, and open-source developer tools. He holds AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications, with the AWS Machine Learning Engineer Associate in progress.
+
+## Professional Experience
+
+- **Logistics Specialist** at Air Culinaire Worldwide (July 2024 – Present): Builds internal order tracking and mobile applications using Next.js; manages client relationships across aviation catering operations.
+- **Software Engineering Consultant** at BOB (July 2024 – Present, Contract): Backend API development for a ride-sharing aggregation platform; third-party API integrations.
+- **Full Stack Developer** at System Soft Technologies (September 2022 – March 2024): Web application development with Node.js and React; backend APIs and database operations.
+- **Campus Leader** at Apple (May 2018 – February 2019): Brand ambassador at Virginia Tech.
+
+## Entrepreneurship
+
+- **Kairobo Platforms LLC** (May 2024 – October 2024): Founded startup to develop low-cost autonomous ground vehicles using consumer mobile devices. Dissolved pre-product after feasibility analysis.
+
+## Projects
+
+- [AgentMeld](https://agentmeld.com): Asynchronous cloud agent platform enabling local AI coding agents to delegate long-running tasks to the cloud. TypeScript.
+- [OpenHome Voice AI Abilities](https://openhome.ai): Voice AI abilities for the OpenHome smart speaker platform. Python. Selected for developer grant program.
+- [cli-pk](https://github.com/pkyanam/cli-pk): Terminal-based AI coding assistant with multi-provider LLM support. JavaScript, Node.js.
+- [gba-next](https://github.com/pkyanam/gba-next): Game Boy Advance emulator with cycle-accurate ARM7TDMI CPU emulation. TypeScript, Next.js.
+- [ArduRoomba](https://github.com/pkyanam/ArduRoomba): Open-source Arduino library for iRobot Roomba Create 2. C++. 35+ GitHub stars.
+- [claude-ps5-mcp](https://github.com/pkyanam/claude-ps5-mcp): MCP server for PS5 discovery and Wake-on-LAN. TypeScript.
+- [gh-contributions-menu-bar](https://github.com/pkyanam/gh-contributions-menu-bar): macOS menu bar app for GitHub contributions. Swift.
+- [rustyclaw](https://github.com/pkyanam/rustyclaw): OpenClaw alternative in Rust.
+- [GPTmon](https://github.com/pkyanam/gptmon): Pokemon clone built with AI coding tools. TypeScript.
+
+## Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Python, Swift, C++, Rust, HTML, CSS
+- **Frameworks:** React, React Native, Node.js, Express.js, Next.js
+- **AI & ML:** Anthropic Claude API, OpenAI API, LLMs, AI agents, MCP, voice AI, NLP
+- **Cloud & DevOps:** AWS (Lambda, SQS, EC2, S3), Docker, Terraform, GitHub Actions, Jenkins, CI/CD
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Other:** REST APIs, embedded systems, Arduino, robotics, autonomous systems, Agile/Scrum
+
+## Contact
+
+- Email: kyanam.preetham@gmail.com
+- GitHub: https://github.com/pkyanam
+- LinkedIn: https://linkedin.com/in/preethamkyanam
+- X/Twitter: https://x.com/pkyanam
+- Website: https://preetham.org
