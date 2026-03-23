@@ -53,6 +53,7 @@
           {
             "group": "Background",
             "pages": [
+              "experience/work",
               "experience/education",
               "experience/skills"
             ]
