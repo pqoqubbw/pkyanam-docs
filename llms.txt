@@ -28,8 +28,6 @@
 ## Optional
 
 - [GitHub](https://github.com/pkyanam)
-- [LinkedIn](https://linkedin.com/in/preethamkyanam)
-- [X/Twitter](https://x.com/pkyanam)
-- [Email](mailto:kyanam.preetham@gmail.com)
-
-Built with [Mintlify](https://mintlify.com).
+- LinkedIn: linkedin.com/in/preethamkyanam
+- X/Twitter: x.com/pkyanam
+- Email: kyanam.preetham@gmail.com
